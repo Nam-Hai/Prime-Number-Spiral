@@ -52,7 +52,7 @@ function draw() {
     }
   }
 
-  if (curN == 2700) {
+  if (curN == 2401) {
     noLoop()
   }
 }
